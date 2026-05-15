@@ -1,4 +1,136 @@
-# INFORMACIÓN PROVISIONAL
+# VIEWNEXT
+
+
+## Participantes
+* Miriam
+* Dana
+* Miguel
+* Juan
+* Martin
+
+## Temporizacion
+Enero-Febrero: Formacion con Udemy
+Marzo: Proyecto Deligo y formacion en Liferay
+Abril-Mayo*: Poryecto Deligo
+
+*Miriam y Martin Abril-Mayo: proyecto GISS
+
+## Miriam Díaz Plaza
+### Despliegue de apliaciones
+
+### Diseño de interfaces
+
+### Desarrollo servidor
+
+### Desarrollo web
+
+### Inglés
+
+### IPE
+
+## Martin Morente Vargas
+
+### Despliegue de apliaciones
+
+### Diseño de interfaces
+
+### Desarrollo servidor
+
+### Desarrollo web
+
+### Inglés
+
+### Digitalizacion
+
+### Sostenibilidad
+
+
+##Juan Jímenez Gónzalez
+
+### Despliegue de apliaciones
+
+### Diseño de interfaces
+
+### Desarrollo servidor
+
+### Desarrollo web
+
+### Inglés
+
+### IPE
+
+
+
+##Dana Espinosa Ramos
+
+### Despliegue de apliaciones
+
+### Diseño de interfaces
+
+### Desarrollo servidor
+
+### Desarrollo web
+
+### Inglés
+
+
+## Miguel Ángel
+
+### Despliegue de apliaciones
+
+### Diseño de interfaces
+
+### Desarrollo servidor
+
+### Desarrollo web
+
+### Inglés
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Presentaciones duales de 2º DAW (mañana) del curso 2025 / 2026
 
