@@ -32,17 +32,78 @@ Abril-Mayo*: Poryecto Deligo
 
 ### Despliegue de apliaciones
 
+Utilice las tecnologias: AWS, Docker, Terraform, Github Actions, Jenkins y gitlab
+
+
+Realice cursos tanto de udemy como de Youtube. Los cuales son los siguientes:
+
+<ins>Udemy:</ins>
+<br><br>
+I) Docker guia practica para desarrolladores DevTalles
+
+
+<ins>Youtube:</ins>
+<br><br>
+
+I) Github Actions desde 0 Mouredev
+
+II) Curso completo Terraform DevOps directive
+
+<br>
+
+Todo este conocimiento lo estuve aplicando en el despliegue continuo tanto de Deligo como en el proyecto de la GISS.
+
 ### Diseño de interfaces
+
+Utilice las siguientes tecnologias:
+
+I) TailwindCss y DaisyUI en DeliGo
+
+II) Sass y CSS en el proyecto de la GISS
 
 ### Desarrollo servidor
 
+Utilice las tecnologias: SpringBoot, Java y JSP
+
+
+Realice cursos tanto de udemy como de Youtube. Los cuales son los siguientes:
+
+<ins>Udemy:</ins>
+<br><br>
+I) Spring Framework & Spring Boot desde 0 a experto
+
+II) Spring Boot Guia definitiva
+
+<br><br>
+Todo el conocimiento lo aplique en los siguientes proyectos:
+
+I) Deligo: Spring Boot, Java
+
+II) Proyecto GISS: JSP
+
 ### Desarrollo web
+
+Utilice las tecnologias: Angular, TypeScript y JavaScript
+
+
+Realice cursos tanto de udemy como de Youtube. Los cuales son los siguientes:
+
+<ins>Udemy:</ins>
+<br><br>
+I) Angular de cero a experto: Fernando Herrera
+
+II) Angular Testing in Depth (Singals Edition) Agular University
+
+<br><br>
+Todo el conocimiento lo aplique en los siguientes proyectos:
+
+I) Deligo: Angular & TypeScript
+
+II) Proyecto GISS: JavaScript
 
 ### Inglés
 
-### Digitalizacion
-
-### Sostenibilidad
+Estuve tanto realizando documentacion en ingles como leyendo documentacion, tambien tuve reuniones en ingles en donde tenia que explicar el trabajo que hice durante el dia (daily).
 
 
 ##Juan Jímenez Gónzalez
