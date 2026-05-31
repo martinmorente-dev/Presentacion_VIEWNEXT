@@ -106,7 +106,7 @@ II) Proyecto GISS: JavaScript
 Estuve tanto realizando documentacion en ingles como leyendo documentacion, tambien tuve reuniones en ingles en donde tenia que explicar el trabajo que hice durante el dia (daily).
 
 
-##Juan Jímenez Gónzalez
+## Juan Jímenez Gónzalez
 
 ### Despliegue de apliaciones
 
