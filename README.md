@@ -28,7 +28,7 @@ Abril-Mayo*: Poryecto Deligo
 
 ### IPE
 
-## Martin Morente Vargas
+## Martin Morente Vargas (Min 3:20)
 
 ### Despliegue de apliaciones
 
