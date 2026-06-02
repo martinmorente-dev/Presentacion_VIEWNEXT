@@ -157,7 +157,7 @@ Se ha realizado dailys del proyecto de DELIGO en ingles, ademas, en el caso de l
 
 ### Despliegue de apliaciones
 
-Tecnologías utilizadas: AWS, Terraform, Docker, Nginx, Git y Github + Github actions
+Tecnologías utilizadas: AWS, Terraform, Docker, Nginx, Git y Github + Github actions <br>
 Aplicado en: Deligo
 Cursos realizados:
  - Curso básico de docker en Udemy
@@ -170,7 +170,7 @@ Lo que he aprendido:
 
 ### Diseño de interfaces
 
-Teconologías utilizadas: Tailwind, CSS, HTML y DaisyUI
+Teconologías utilizadas: Tailwind, CSS, HTML y DaisyUI <br>
 Aplicado en: Deligo
 Cursos realizados:
  - Curso básico de Tailwind en Udemy
@@ -192,7 +192,7 @@ Lo que he aprendido:
 
 ### Desarrollo web
 
-Tecnologías utulizadas: Angular20, Typescript
+Tecnologías utulizadas: Angular20, Typescript <br>
 Aplicado en: Deligo
 Cursos realizados:
  - Angular de cero a experto: Fernando Herrera
