@@ -11,22 +11,56 @@
 ## Temporizacion
 Enero-Febrero: Formacion con Udemy
 Marzo: Proyecto Deligo y formacion en Liferay
-Abril-Mayo*: Poryecto Deligo
+Abril-Mayo*: Proyecto Deligo
 
 *Miriam y Martin Abril-Mayo: proyecto GISS
 
-## Miriam Díaz Plaza
+## Miriam Díaz Plaza (Min:6:26)
 ### Despliegue de apliaciones
+Durante las prácticas realicé los siguientes cursos en la plataforma de Pluralsight sobre terraform y github actions:
+- Terraform: providers
+- Terraform: modules
+- Terraform: advanced hcl
+- Terraform: validation and testing
+- GitHub Actions: The Big Picture
+- Authoring and maintaining GitHub Actions workflows
+
+Así mismo emplee para integración continua en el proyecto de DeliGo GitHub Actions y en el proyecto de la GISS Jenkins
 
 ### Diseño de interfaces
+Durante el curso de Angular de Udemy tuve la oportunidad de aprender más sobre Tailwind y la libreria de componentes para Tailwind Daisy UI.
+Pude usar Tailwing y Daisy UI durante mi aportación a DeliGo.
+Despues en el proyecto de la GISS pude usar SaSS y CSS para los estilos de los componentes personalizados para Liferay
 
 ### Desarrollo servidor
+Realice un curso de Fundamentos de Laravel en Pluralsight donde aprendi mas sobre los recursos, y a crear vistas con blade.
+Tambien realice cursos sobre diseño de API en Udemy, asi como cursos de Springboot tanto en Udemy como en Pluralsight. Algunos de los cursos fueron
+- Spring Framework & Spring Boot desde 0 a experto de Udemy
+- Spring Framework: The Big Picture de Pluralsight
+- Spring Boot 3: The Big Picture de Pluralsight
+- Spring Boot 3: Fundamentals de Pluralsight
+- Building Java Web Applications Using Spring Framework 6 de Pluralsight
+Gracias a estos cursos he podido aprender más sobre Spring dada su alta demanda en el mercado laboral. Así mismo dentro de las prácticas pude aplicar estos conocimientos en el proyecto de Deligo
 
-### Desarrollo web
+Mientras estuve en el proyecto de la GISS trabaje con Java y JSP para los módulos de Liferay.
+
+### Desarrollo cliente
+Realice el curso de Udemy Angular de cero a experto de Fernando Herrera y el curso de Angular Testing de Angular University, con estos cursos amplie profundamente mis conocimientos en Angular, en especial en caracteristicas de las ultimas versiones como los rxResource, pero tambien aprendi sobre pipes y validadores de formulario personalizados, formularios reactivos y caracteristicas avanzadas de observables.
+
+En la parte de testing aprendi a hacer test unitarios tanto a componentes de presetación como a componentes que obtienen datos por http. Tambien aprendi a hacer test de integracion y test end-to-end en menor medida.
+
+Todo esto he podido aplicarlo en las prácticas en el proyecto de Deligo, asi como en mi proyecto final de Gabit.
+
+Mientras estuve en el proyecto de la GISS pude trabajar con javascript.
 
 ### Inglés
+He práctica el inglés tanto en los cursos que he realizado de Udemy y Pluralsight, así como en algunas de las dailys de Deligo que se hicieron en inglés.
+También en el proyecto de la GISS he podido usar el inglés tanto en reuniones como haciendo la documentación de nuestras tareas realizadas.
 
 ### IPE
+Durante las prácticas he podido conocer más el plan sostenible de la empresa cuyos pilares fundamentales son el crecimiento personal y bienestar y la apuesta por el medio ambiente. Destacar las actividades de bienestar que se realizan todos los meses en la oficina para aquellos que quieran apuntarse, como talleres de meditación o sesiones con profesionales sobre como lidiar con el estres.
+
+En cuanto a la metodología de trabajo, he podido ser participe de la metodología Agile llegando a participar en reuniones con el cliente incluso.
 
 ## Martin Morente Vargas (Min 3:20)
 
@@ -40,7 +74,6 @@ Realice cursos tanto de udemy como de Youtube. Los cuales son los siguientes:
 <ins>Udemy:</ins>
 <br><br>
 I) Docker guia practica para desarrolladores DevTalles
-
 
 <ins>Youtube:</ins>
 <br><br>
@@ -65,7 +98,6 @@ II) Sass y CSS en el proyecto de la GISS
 
 Utilice las tecnologias: SpringBoot, Java y JSP
 
-
 Realice cursos tanto de udemy como de Youtube. Los cuales son los siguientes:
 
 <ins>Udemy:</ins>
@@ -81,10 +113,9 @@ I) Deligo: Spring Boot, Java
 
 II) Proyecto GISS: JSP
 
-### Desarrollo web
+### Desarrollo cliente
 
 Utilice las tecnologias: Angular, TypeScript y JavaScript
-
 
 Realice cursos tanto de udemy como de Youtube. Los cuales son los siguientes:
 
@@ -114,7 +145,7 @@ Estuve tanto realizando documentacion en ingles como leyendo documentacion, tamb
 
 ### Desarrollo servidor
 
-### Desarrollo web
+### Desarrollo cliente
 
 ### Inglés
 
@@ -142,7 +173,7 @@ Tecnologias utilizadas: Springboot, MYSQL
 
 En el caso de springboot se ha realizado un curso en springboot
 
-### Desarrollo web
+### Desarrollo cliente
 
 Tecnologias utilizadas: Angular20, Typescript
 
@@ -190,7 +221,7 @@ Lo que he aprendido:
  - Autenticación y autorización con JPA
  - Desarrollo de API con Springboot
 
-### Desarrollo web
+### Desarrollo cliente
 
 Tecnologías utulizadas: Angular20, Typescript <br>
 Aplicado en: Deligo <br>
