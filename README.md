@@ -157,14 +157,54 @@ Se ha realizado dailys del proyecto de DELIGO en ingles, ademas, en el caso de l
 
 ### Despliegue de apliaciones
 
+Tecnologías utilizadas: AWS, Terraform, Docker, Nginx, Git y Github + Github actions
+Aplicado en: Deligo
+Cursos realizados:
+ - Curso básico de docker en Udemy
+
+Lo que he aprendido:
+ - Creación de infraestructuras avanzadas con scripts de terraform
+ - CI/CD con github actions
+ - Configuración de NGINX para redirecciones
+ - Creación de entornos aislados con docker para producción
+
 ### Diseño de interfaces
+
+Teconologías utilizadas: Tailwind, CSS, HTML y DaisyUI
+Aplicado en: Deligo
+Cursos realizados:
+ - Curso básico de Tailwind en Udemy
+
+Lo que he aprendido:
+ - Uso de tailwind
 
 ### Desarrollo servidor
 
+Tecnologías utilizadas: Sprinboot, Mysql y phpMyAdmin
+Aplicado en: Deligo
+Cursos realizados:
+ - Spring Framework & Spring Boot desde 0 a experto en Udemy
+
+Lo que he aprendido:
+ - MVC
+ - Autenticación y autorización con JPA
+ - Desarrollo de API con Springboot
+
 ### Desarrollo web
+
+Tecnologías utulizadas: Angular20, Typescript
+Aplicado en: Deligo
+Cursos realizados:
+ - Angular de cero a experto: Fernando Herrera
+
+Lo que he aprendido:
+ - Formularios reactivos
+ - Pipes personalizados
+ - Smart Dumb Component
 
 ### Inglés
 
+Conversaciones en inglés en las dailys además de que los cursos obligatorios de VIEWNEXT tenían partes en inglés
 
 
 
