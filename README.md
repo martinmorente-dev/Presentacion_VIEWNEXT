@@ -180,7 +180,7 @@ Lo que he aprendido:
 
 ### Desarrollo servidor
 
-Tecnologías utilizadas: Sprinboot, Mysql y phpMyAdmin
+Tecnologías utilizadas: Sprinboot, Mysql y phpMyAdmin <br>
 Aplicado en: Deligo
 Cursos realizados:
  - Spring Framework & Spring Boot desde 0 a experto en Udemy
