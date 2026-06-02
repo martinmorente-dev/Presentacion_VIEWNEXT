@@ -122,18 +122,36 @@ Estuve tanto realizando documentacion en ingles como leyendo documentacion, tamb
 
 
 
-##Dana Espinosa Ramos
+## Dana Espinosa Ramos
 
 ### Despliegue de apliaciones
 
+Utilicé las tecnologías: AWS, Terraform, Github, Git, Docker 
+
+Realice un curso de docker en UDEMY 
+
 ### Diseño de interfaces
+
+He utilizado: CSS, HTML, DAISYUI, TAILWIND
+
+Todo esto aplicado en el proyecto de DELIGO
 
 ### Desarrollo servidor
 
+Tecnologias utilizadas: Springboot, MYSQL
+
+En el caso de springboot se ha realizado un curso en springboot
+
 ### Desarrollo web
+
+Tecnologias utilizadas: Angular20, Typescript
+
+Se ha realizado un curso de Angular en UDEMY
+
 
 ### Inglés
 
+Se ha realizado dailys del proyecto de DELIGO en ingles, ademas, en el caso de los cursos de LIFERAY, la documentacion estaba en ingles.
 
 ## Miguel Ángel
 
