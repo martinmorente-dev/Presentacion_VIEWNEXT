@@ -158,7 +158,7 @@ Se ha realizado dailys del proyecto de DELIGO en ingles, ademas, en el caso de l
 ### Despliegue de apliaciones
 
 Tecnologías utilizadas: AWS, Terraform, Docker, Nginx, Git y Github + Github actions <br>
-Aplicado en: Deligo
+Aplicado en: Deligo <br>
 Cursos realizados:
  - Curso básico de docker en Udemy
 
@@ -171,7 +171,7 @@ Lo que he aprendido:
 ### Diseño de interfaces
 
 Teconologías utilizadas: Tailwind, CSS, HTML y DaisyUI <br>
-Aplicado en: Deligo
+Aplicado en: Deligo <br>
 Cursos realizados:
  - Curso básico de Tailwind en Udemy
 
@@ -181,7 +181,7 @@ Lo que he aprendido:
 ### Desarrollo servidor
 
 Tecnologías utilizadas: Sprinboot, Mysql y phpMyAdmin <br>
-Aplicado en: Deligo
+Aplicado en: Deligo <br>
 Cursos realizados:
  - Spring Framework & Spring Boot desde 0 a experto en Udemy
 
@@ -193,7 +193,7 @@ Lo que he aprendido:
 ### Desarrollo web
 
 Tecnologías utulizadas: Angular20, Typescript <br>
-Aplicado en: Deligo
+Aplicado en: Deligo <br>
 Cursos realizados:
  - Angular de cero a experto: Fernando Herrera
 
