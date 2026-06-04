@@ -1,5 +1,7 @@
 # VIEWNEXT
 
+## Video
+[Video presentación](https://www.youtube.com/watch?v=HZ_lkB4fNrs)
 
 ## Participantes
 * Miriam
@@ -176,7 +178,7 @@ Hemos realizado varias Dailys en ingles y he realizado algunos cursos en ingles.
 He aprendido bastante de gestion de equipo, la empresa hace proyectos para ser mas sostenible.
 
 
-## Dana Espinosa Ramos
+## Dana Espinosa Ramos (Min 14:18)
 
 ### Despliegue de apliaciones
 
@@ -207,7 +209,7 @@ Se ha realizado un curso de Angular en UDEMY
 
 Se ha realizado dailys del proyecto de DELIGO en ingles, ademas, en el caso de los cursos de LIFERAY, la documentacion estaba en ingles.
 
-## Miguel Ángel
+## Miguel Ángel (Min 15:43)
 
 ### Despliegue de apliaciones
 
