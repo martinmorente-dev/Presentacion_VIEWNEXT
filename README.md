@@ -137,20 +137,47 @@ II) Proyecto GISS: JavaScript
 Estuve tanto realizando documentacion en ingles como leyendo documentacion, tambien tuve reuniones en ingles en donde tenia que explicar el trabajo que hice durante el dia (daily).
 
 
-## Juan Jímenez Gónzalez
+## Juan Jímenez Gónzalez (Min:10:59)
 
 ### Despliegue de apliaciones
+I) Cursos
+#### Cursos de Udemy
+He realizado un curso en udemy de docker en el cual tambien se veia github actions y desplegar en un hoster de internet.
+
+II) DeliGo
+He hecho varios despliegues en DeliGo, con terraform, github actions, code deploy y AWS.
+
 
 ### Diseño de interfaces
+I) Cursos
+#### Cursos de Udemy
+No he realizado ningun curso en especifico pero si he aprendido en un curso de angular ha utilizar tailwind y una libreria de componentes llamada DaisyUI.
+
+II) DeliGo
+He realizado todas mis historias del proyecto con tailwind y DaisyUI.
+
 
 ### Desarrollo servidor
+I) Cursos
+#### Cursos de Udemy
+He realizado un curso de spring. En el que he aprendido a hacer una API con seguridad y un patron de diseño bastante utilizado(Controllers, DTOs, Services, Repositories con Spring Data JPA y Entities).
+
+II) DeliGo
+He aprendido bastante de spring desarrollando las historias del proyecto.
 
 ### Desarrollo cliente
+I) Cursos
+#### Cursos de Udemy
+He realizado dos cursos de angular. En el primero entendi a la perfeccion angular basico por asi decirlo. En el segundo aprendi testing, SSR, SSG y mas cosas.
+
+II) DeliGo
+He aprendido bastante de angular desarrollando las historias del proyecto.
 
 ### Inglés
+Hemos realizado varias Dailys en ingles y he realizado algunos cursos en ingles. He aprendido bastante con la practica.
 
 ### IPE
-
+He aprendido bastante de gestion de equipo, la empresa hace proyectos para ser mas sostenible.
 
 
 ## Dana Espinosa Ramos
